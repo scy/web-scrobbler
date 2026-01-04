@@ -2714,4 +2714,10 @@ export default <ConnectorMeta[]>[
 		js: 'cytu-be.js',
 		id: 'cytu-be',
 	},
+	{
+		label: 'The Indie Beat Television',
+		matches: ['*://tv.theindiebeat.fm/*'],
+		js: 'theindiebeattv.js',
+		id: 'theindiebeattv',
+	},
 ];
